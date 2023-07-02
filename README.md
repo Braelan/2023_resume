@@ -1,2 +1,1 @@
 # 2023_resume
-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
