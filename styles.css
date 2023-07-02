@@ -16,6 +16,9 @@ p {
 
 .container {
     max-width: 800px;
+}
+
+.title {
     text-align: center;
 }
 
